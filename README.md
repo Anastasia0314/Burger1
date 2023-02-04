@@ -1,5 +1,5 @@
 <html>
-<title> Burger King </title>
+
 <body>
 <header style="background-color: Khaki">
   <a href="https://burgerkingrus.ru/">
